@@ -1,3 +1,6 @@
+Dashboard deployed to https://designergal3002.github.io/Plot.ly-Challenge/
+ISSUES WITH THE IMAGE CONNECTIONS. ALSO ATTACHED GITHUB LINK TO BOOTCAMPSPOT.
+
 # Plot.ly-Challenge
 Plot.ly Homework - Belly Button Biodiversity
 
